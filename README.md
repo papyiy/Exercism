@@ -1,3 +1,3 @@
 # Exercism
-Exercism project excersises
+Exercism project exercises
 Status 2/117
